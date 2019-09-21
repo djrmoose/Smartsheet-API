@@ -1,0 +1,11 @@
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\bin\Debug\netcoreapp2.1\SmartsheetTest1.deps.json
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\bin\Debug\netcoreapp2.1\SmartsheetTest1.runtimeconfig.json
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\bin\Debug\netcoreapp2.1\SmartsheetTest1.runtimeconfig.dev.json
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\bin\Debug\netcoreapp2.1\SmartsheetTest1.dll
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\obj\Debug\netcoreapp2.1\SmartsheetTest1.csprojAssemblyReference.cache
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\obj\Debug\netcoreapp2.1\SmartsheetTest1.csproj.CoreCompileInputs.cache
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\obj\Debug\netcoreapp2.1\SmartsheetTest1.AssemblyInfoInputs.cache
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\obj\Debug\netcoreapp2.1\SmartsheetTest1.AssemblyInfo.cs
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\bin\Debug\netcoreapp2.1\SmartsheetTest1.pdb
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\obj\Debug\netcoreapp2.1\SmartsheetTest1.dll
+C:\Users\dustin.radford\source\repos\SmartsheetTest1\SmartsheetTest1\obj\Debug\netcoreapp2.1\SmartsheetTest1.pdb
